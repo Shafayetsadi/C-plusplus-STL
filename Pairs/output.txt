@@ -1,0 +1,8 @@
+Hello 100
+Sadi 20
+10 20
+Shafayet 20
+0
+1
+0
+1
