@@ -1,0 +1,7 @@
+abc
+10
+gfg
+pqr
+3
+3
+pqr 10 gfg
